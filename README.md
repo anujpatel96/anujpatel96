@@ -1,4 +1,4 @@
-- 👋 hello/bonjour!! I’m Anuj Patel
+- 👋 Hello/bonjour!! I’m Anuj Patel
 - 👀 I’m interested in Deep Ensemble Learning
 - 🌱 I’m currently learning MLOps
 - 🥅 2020 Goals: Contribute more to Open Source projects
