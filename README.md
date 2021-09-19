@@ -13,7 +13,6 @@
 <img align="left" alt="Tableau" width="26px" src="https://alexonmarketing.com/wp-content/uploads/2020/06/tableau-integration-logo.png"/>
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
 <img align="left" alt="Sci-kit" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"/>
-<img align="left" alt="PyTorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png"/>
 <img align="left" alt="Keras" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"/>
 <img align="left" alt="Scipy" width="26px" src="https://e7.pngegg.com/pngimages/665/534/png-clipart-scipy-numpy-python-scikit-learn-pip-others-miscellaneous-blue.png"/>
 <img align="left" alt="AWS" width="26px" src="https://www.kindpng.com/picc/m/152-1522129_how-to-manage-and-automate-aws-ebs-snapshots.png"/>
