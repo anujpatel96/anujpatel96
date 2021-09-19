@@ -7,6 +7,8 @@
 ### Languages and Tools:
 
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>
+<img align="left" alt="Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/800px-Apache_Spark_logo.svg.png"/>
+<img align="left" alt="Hadoop" width="26px" src="https://symbols.getvecta.com/stencil_74/27_apache-pig-icon.b48f97a4d1.png"/>
 <img align="left" alt="IBM DataStage" width="26px" src="https://icon2.cleanpng.com/20180324/fbw/kisspng-ibm-cloud-computing-ibm-infosphere-datastage-ibm-5ab6f2763608a8.3744172215219390622213.jpg"/>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
