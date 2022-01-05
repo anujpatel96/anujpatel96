@@ -15,7 +15,7 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Docker" width="26px" src="https://www.docker.com/sites/default/files/d8/2019-07/Moby-logo.png"/>
 <img align="left" alt="Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/800px-Apache_Spark_logo.svg.png"/>
-<img align="left" alt="Hadoop" width="26px" src="https://symbols.getvecta.com/stencil_74/27_apache-pig-icon.b48f97a4d1.png"/>
+<img align="left" alt="Hadoop" width="26px" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/022013/hadoop.png"/>
 <img align="left" alt="Jenkins" width="26px" src="https://www.jenkins.io/images/logos/jenkins/256.png"/>
 <img align="left" alt="Tableau" width="26px" src="https://alexonmarketing.com/wp-content/uploads/2020/06/tableau-integration-logo.png"/>
 <img align="left" alt="Tensorflow" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png"/>
