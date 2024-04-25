@@ -1,7 +1,7 @@
 - 👋 Hello/bonjour!! I’m Anuj Patel
 - 👀 I’m interested in Deep Ensemble Learning
 - 🌱 I’m currently learning MLOps
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - :dart: Vision without execution is just hallucination.
 
 ### Languages and Tools:
