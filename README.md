@@ -1,7 +1,7 @@
 - 👋 Hello/bonjour!! I’m Anuj Patel
-- 👀 I’m interested in Deep Ensemble Learning
-- 🌱 I’m currently learning MLOps
-- 🥅 2024 Goals: Contribute more to Open Source projects.
+- 👀 I’m interested in LLM and AI agents
+- 🌱 I’m currently working as Machine Learning Engineer
+- 🥅 2025 Goals: Build AI agents to contribute to open source community.
 - :dart: Vision without execution is just hallucination.
 
 ### Languages and Tools:
