@@ -30,6 +30,8 @@
 ### :zap: GitHub Stats
 
 <img align="left" alt="Anuj Patel's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=anujpatel96&show_icons=true&hide_border=true" />
+<img align="left" src="https://media-hosting.imagekit.io/ccc83d0efbba492b/screenshot_1745721087915.png?Expires=1840329091&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hNvXV1OOgiX~YNp1WPxfR6lR8dZjyjDnWoVkJtA5hmYjpbjRIovrmjaihMklZ5E42HNJa1pEyxcSyVxBrJp5VZ4shhgcubfH7bubZI0GxZWWI8hUiDnPI809" />
+
 
 
 
