@@ -32,5 +32,5 @@
 <br clear="left" />
 
 ### :fire: LeetCode Champ <br>
-<img align="left" src="https://media-hosting.imagekit.io/ccc83d0efbba492b/screenshot_1745721087915.png?Expires=1840329091&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=hNvXV1OOgiX~YNp1WPxfR6lR8dZjyjDnWoVkJtA5hmYjpbjRIovrmjaihMklZ5E42HNJa1pEyxcSyVxBrJp5VZ4shhgcubfH7bubZI0GxZWWI8hUiDnPI809I5XvQNLImIIKKxunr8TXl3pTYrsmzVbikiUn7pIkT~rWOusXQLApSaBKCWAaB0kkcYVEdaPVCSBBMJFW42eMCS8G5wg6chmcFj6UcylJtX9oISOVxyBEWDzSNXzPyT9OJfqXilGR7M~9u1uqT93TRzh8zRux79eteNtFyQ0SYi4Jxw1w2mSChRs416UL19-hI-eAmdZf9ncU3kpibzDAVM~PNTFtvw__" />
+<img align="left" src="https://i.ibb.co/gZGKx1FW/image.png" />
 
