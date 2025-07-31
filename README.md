@@ -1,5 +1,5 @@
 - 👋 Hello/bonjour!! I’m Anuj Patel
-- 👀 I’m interested in LLM and AI agents
+- 👀 I’m interested in LLMs and AI agents
 - 🌱 I’m currently working as Machine Learning Engineer
 - 🥅 2025 Goals: Build AI agents to contribute to open source community.
 - :dart: Vision without execution is just hallucination.
