@@ -5,7 +5,7 @@
 - :dart: Vision without execution is just hallucination
 
 ### Languages and Tools:
-<div style="display: flex; flex-wrap: wrap; gap: 12px;">
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
   <img alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
   <img alt="LangChain" width="35px" src="https://devblogs.microsoft.com/azure-sql/wp-content/uploads/sites/56/2024/02/langchain.png"/>
   <img alt="Gradio" width="26px" src="https://miro.medium.com/v2/resize:fit:400/1*JBq9FWzQs_uQtjpu8CpziQ.jpeg"/>
