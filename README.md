@@ -8,6 +8,8 @@
 <div>
   <img alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>&nbsp;
   <img alt="LangChain" width="35px"  src="https://devblogs.microsoft.com/azure-sql/wp-content/uploads/sites/56/2024/02/langchain.png"/>&nbsp;
+  <img alt="OpenAI" width="26px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png"/>&nbsp;
+  <img alt="FastAPI" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s"/>&nbsp;
   <img alt="Gradio" width="26px" src="https://miro.medium.com/v2/resize:fit:400/1*JBq9FWzQs_uQtjpu8CpziQ.jpeg"/>&nbsp;
   <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"/>&nbsp;
   <img alt="Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/800px-Apache_Spark_logo.svg.png"/>&nbsp;
