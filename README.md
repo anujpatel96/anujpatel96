@@ -7,7 +7,7 @@
 ### Languages and Tools:
 <div>
   <img alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>&nbsp;
-  <img alt="Databricks" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"/>&nbsp;
+  <img alt="Databricks" width="26px" src="https://cdn.prod.website-files.com/601064f495f4b4967f921aa9/64246984585c9225aa4e4fc4_databricks.png"/>&nbsp;
   <img alt="LangChain" width="35px"  src="https://devblogs.microsoft.com/azure-sql/wp-content/uploads/sites/56/2024/02/langchain.png"/>&nbsp;
   <img alt="OpenAI" width="26px" src="https://static.vecteezy.com/system/resources/previews/022/227/364/non_2x/openai-chatgpt-logo-icon-free-png.png"/>&nbsp;
   <img alt="FastAPI" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn_3MFhCzXcwI3GWIDTsWJg2HXDTG7TwGovA&s"/>&nbsp;
