@@ -6,6 +6,8 @@
 
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
+<img align="left" alt="LangChain" width="35px" src="https://devblogs.microsoft.com/azure-sql/wp-content/uploads/sites/56/2024/02/langchain.png"/>
+<img align="left" alt="Gradio" width="26px" src="https://miro.medium.com/v2/resize:fit:400/1*JBq9FWzQs_uQtjpu8CpziQ.jpeg"/>
 <img align ="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Spark" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/800px-Apache_Spark_logo.svg.png"/>
 <img align="left" alt="Java" width="26px" src="https://i.stack.imgur.com/Lqh07.png"/>
